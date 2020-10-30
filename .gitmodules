@@ -4,3 +4,9 @@
 [submodule "themes/minimo"]
 	path = themes/minimo
 	url = https://github.com/MunifTanjim/minimo
+[submodule "themes/m10c"]
+	path = themes/m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git
+[submodule "themes/fuji"]
+	path = themes/fuji
+	url = https://github.com/amzrk2/hugo-theme-fuji.git
